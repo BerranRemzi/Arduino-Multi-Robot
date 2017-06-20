@@ -45,3 +45,9 @@ syntax: regexp
 .*.swp
 /nbproject/private/
 /nbproject/
+
+# Header files
+*.*\*.h
+*.*\*.cpp
+*.h
+*.cpp
